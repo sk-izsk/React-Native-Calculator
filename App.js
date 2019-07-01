@@ -1,13 +1,6 @@
 import React from "react";
 import { Component } from "react";
-import {
-  StyleSheet,
-  Text,
-  View,
-  TextInput,
-  Button,
-  TouchableOpacity
-} from "react-native";
+import { Text, View, TouchableOpacity } from "react-native";
 import Styles from "./Component/Stylesheet.js";
 
 export default class App extends Component {
